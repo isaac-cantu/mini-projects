@@ -62,21 +62,9 @@ Projects are implemented using a variety of languages, including but not limited
 
 ```bash
 mini-projects/
-├── python/
-│   ├── 01_name/
-│   └── 02_name/
-├── cpp/
-│   ├── 01_name/
-│   └── 02_name/
-├── rust/
-│   ├── 01_name/
-│   └── 02_name/
-├── julia/
-│   ├── 01_name/
-│   └── 02_name/
-├── bash/
-│   ├── 01_name/
-│   └── 02_name/
+├── 0n-project name-coding language/
+│   ├── code
+│   └── README.md
 └── README.md
 ```
 
