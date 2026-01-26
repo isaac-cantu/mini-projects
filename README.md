@@ -62,7 +62,7 @@ Projects are implemented using a variety of languages, including but not limited
 
 ```bash
 mini-projects/
-├── 0n-project name-coding language/
+├── NN-project-name-language
 │   ├── code
 │   └── README.md
 └── README.md
